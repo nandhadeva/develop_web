@@ -7,7 +7,7 @@ loveLink.addEventListener("click", function (event) {
   const password = passwordInput.value;
 
   if (password === "iloveyou" || password === "subash") {
-    window.location.href = "www.google.com";
+    window.location.href = "https://projectnn.vercel.app";
   } else {
     alert("Incorrect password.");
   }
