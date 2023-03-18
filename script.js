@@ -7,7 +7,7 @@ loveLink.addEventListener("click", function (event) {
   const password = passwordInput.value;
 
   if (password === "deva_" || password === "subash") {
-    window.location.href = "https://projectnn.vercel.app";
+    window.location.href = "https://tenor.com/en-IN/view/gpmuthu-sethapayale-nakku-swearing-tiktok-gif-20326152";
   } else {
     alert("Incorrect password.");
   }
