@@ -6,7 +6,7 @@ loveLink.addEventListener("click", function (event) {
 
   const password = passwordInput.value;
 
-  if (password === "deva_" || password === "subash") {
+  if (password === "qwertyuiop") {
     window.location.href = "https://media.tenor.com/UbqTvZhnxpEAAAAd/sigma.gif";
   } else {
     alert("Incorrect password.");
